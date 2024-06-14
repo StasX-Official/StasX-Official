@@ -14,4 +14,7 @@ I believe in the power of community and open knowledge sharing, so join my commu
 - SkillShop: https://skillshop.credential.net/profile/kozosvyststas/wallet
 - Google Dev: https://g.dev/StasX
 
+(Kozosvyst Stas*)
+Stas* -> StasX (Pseudonym)
+
 @StasX, 2024
