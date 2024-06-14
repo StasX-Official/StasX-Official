@@ -13,6 +13,5 @@ I believe in the power of community and open knowledge sharing, so join my commu
 - Patreon: https://www.patreon.com/StasX?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
 - SkillShop: https://skillshop.credential.net/profile/kozosvyststas/wallet
 - Google Dev: https://g.dev/StasX
-- LinkedIn: https://www.linkedin.com/in/stas-kozosvyst-a73782279
 
 @StasX, 2024
