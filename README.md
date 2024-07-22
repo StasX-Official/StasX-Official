@@ -11,12 +11,10 @@ I believe in the power of community and open knowledge sharing, so join my commu
 ## Get in Touch
 
 - Patreon: https://www.patreon.com/StasX?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
-- SkillShop: https://skillshop.credential.net/profile/kozosvyststas/wallet
 - Google Dev: https://g.dev/StasX
-- LinkedIn: https://www.linkedin.com/in/stas-kozosvyst-a73782279/
 - Social: https://solo.to/StasX
 
-I'm from Ukraine. My real name: Kozosvyst Stas.
+I'm from Ukraine. 
 My projects: SXServiseCLI, SXServiseCLI2024, NX-Voise-AI (SOON), and more.
 To contact me: stasx.official.xx@gmail.com (mail), @stasxreal1 (Discord).
 @StasX, 2024
