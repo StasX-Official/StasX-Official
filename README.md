@@ -9,7 +9,7 @@ I'm always on the lookout for new challenges and opportunities to enhance my ski
 I believe in the power of community and open knowledge sharing, so join my community where we can collaborate and improve software for future generations.
 
 ## Get in Touch
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V7V711ZLQE)
 - Patreon: https://www.patreon.com/StasX?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink
 - Google Dev: https://g.dev/StasX
 - Social: https://solo.to/StasX
