@@ -31,7 +31,7 @@ A powerful and extensible command-line interface tool designed for developers an
 ### `NWHOIS`
 A modern, security-focused WHOIS scanner with AI analysis. Used for threat intelligence, domain tracking, and DNS visibility.
 
-### `SX Educational Platform`
+### `SXSCLI Educational Platform`
 An AI-driven learning platform created to support young students in learning programming, AI, and cybersecurity through interactive tutorials, challenges, and personalized guidance.
 
 ## Services Offered
