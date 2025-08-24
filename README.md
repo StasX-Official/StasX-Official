@@ -49,10 +49,11 @@ I am open to freelance, collaboration, or long-term project-based opportunities.
 
 ## Contact & Links
 
-- 📧 Email: **kozosvyststas@sxservisecli.tech**
-- 🌐 Website: **https://www.sxservisecli.tech/**
+- 📧 Email: **kozosvyststas@sxscli.com**
+- 🌐 Website: **https://sxscli.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/stas-kozosvyst-a73782279**
 - Tiktok: **https://www.tiktok.com/@stasxreal**
+- X: **https://x.com/StasKozosvyst**
 ---
 
 ## Legal
