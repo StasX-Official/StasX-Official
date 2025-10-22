@@ -1,4 +1,6 @@
 
+<img width="2592" height="864" alt="XLOG" src="https://github.com/user-attachments/assets/1b316a05-604f-4883-b307-0baf71b60d6d" />
+
 # About Me
 
 My name is **Kozosvyst Stas**, and I am a **13-year-old certified software and artificial intelligence developer** from Ukraine. I started learning programming at the age of 7 and now have over **5 years of practical experience** in building software, web applications, AI tools, and automation systems. 
@@ -6,17 +8,6 @@ My name is **Kozosvyst Stas**, and I am a **13-year-old certified software and a
 I am the **founder of software development team** and the creator of an **AI-based educational platform** that helps young developers and learners acquire modern tech skills. I hold over **20 international certificates**, including from Google, Microsoft, Cisco, and Harvard.
 
 I am currently a student of the **Step IT Academy** and enrolled in multiple online academic programs including courses on **computer science, cybersecurity, AI, and software architecture**. I also participate in international AI competitions and innovation challenges.
-
----
-
-## Key Skills and Technologies
-
-- **Programming Languages**: Python, JavaScript, C#, PHP, SQL, HTML/CSS
-- **Frameworks & Tools**: React, Node.js, TensorFlow, Express, Flask, Scikit-learn, Bootstrap, Tailwind CSS
-- **Databases**: MongoDB, Firebase, MySQL, PostgreSQL
-- **AI & Machine Learning**: OpenAI APIs, GPT models, Computer Vision, NLP
-- **DevOps & Infrastructure**: Git, GitHub Actions, Docker, Linux CLI, Nginx, Cloudflare
-- **Cybersecurity**: OWASP, ethical hacking basics, penetration testing, secure code analysis
 
 ---
 
