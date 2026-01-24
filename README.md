@@ -3,7 +3,7 @@
 
 # About Me
 
-My name is **Kozosvyst Stas**, and I am a **13-year-old certified software and artificial intelligence developer** from Ukraine. I started learning programming at the age of 7 and now have over **5 years of practical experience** in building software, web applications, AI tools, and automation systems. 
+My name is **Kozosvyst Stas**, and I am a **14-year-old certified software and artificial intelligence developer** from Ukraine. I started learning programming at the age of 7 and now have over **5 years of practical experience** in building software, web applications, AI tools, and automation systems. 
 
 I am the **founder of software development team** and the creator of an **AI-based educational platform** that helps young developers and learners acquire modern tech skills. I hold over **20 international certificates**, including from Google, Microsoft, Cisco, and Harvard.
 
